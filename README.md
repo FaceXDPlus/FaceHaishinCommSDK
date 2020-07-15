@@ -1,0 +1,2 @@
+# FaceHaishinSDK
+FaceHaishinCommSDK 是FaceHaishin跨平台通信组件
